@@ -10,12 +10,4 @@ Within this project, a number of files can be found.
 - Markdown files containing notes from each chapter.
 - Folders for images.
 
-This is a work in progress and will continue to be expanded overtime. At the time of writing this file, users can expect the following functionality:
-- A ship to appear on the screen.
-- Being able to pilot the ship using the left and right arrow keys.
-- Fire bullets using the space key.
-- Aliens to visualize on the screen, however they will be stationary and will not react to bullets reaching them.
-- Bullets erase the alien.
-- If all aliens are erased, a new fleet is created.
-- If an alien hits the ship or the bottom of the screen, a ship is lost.
-- If 3 ships are lost, the game 'ends' by coming to a halt.
+Additional changes may be made to improve this file over time.
